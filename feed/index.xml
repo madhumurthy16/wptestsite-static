@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 15 Jul 2020 22:43:17 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Jul 2020 22:45:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.4.2</generator>
 	<item>
+		<title>New Test Post</title>
+		<link>./../new-test-post/index.html</link>
+					<comments>./../new-test-post/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 22:45:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=5</guid>
+
+					<description><![CDATA[This is the content for the new test site.]]></description>
+										<content:encoded><![CDATA[
+<p>This is the content for the new test site.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../new-test-post/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>./../hello-world/index.html</link>
 					<comments>./../hello-world/index.html#comments</comments>
